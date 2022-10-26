@@ -1,0 +1,1 @@
+impletação da api md5 (criptografia de senha) no banco de dados.
